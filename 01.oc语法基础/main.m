@@ -1,9 +1,9 @@
-
 /*
  OC 相对于C 
       a) 在C的基础上新增了1小部面对象的语法
       b) 将C 复杂的,繁琐的语法封装的更为简单
       c) OC完全兼容C语言
+ 
  
  CO 与C 源文件:
      OC 文件:源文件为.m  m代表message 代表OC中最重要的1个机制,消息机制
@@ -104,8 +104,8 @@
  
     带参数的声明规范: 方法名可以命名: xxxWith:实参
          xxxWithxxx 如: eatWith:   eatWithFood:
-
  */
+ 
 #import <Foundation/Foundation.h>
 
 //声明
