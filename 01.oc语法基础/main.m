@@ -9,9 +9,11 @@
      OC 文件:源文件为.m  m代表message 代表OC中最重要的1个机制,消息机制
       C 文件:源文件为.c
  
+ 
  main 函数仍然是OC程序的入口和出口
       int 类型是返回值,代表程序结束的状态
       main 函数的参数:仍然可以接收用户在运行程序的时候传递数据给程序,参数也可以不要
+ 
  
  #import 指令
        a) 以# 号开头的是1个预处理指令
@@ -19,6 +21,7 @@
        c) 增加: 同1个文件无论#import 多次,只会包含1次
  
  框架: 是1个功能集,有点像C 语言的函数库. 如:Foundation 框架,包含了Foundation 下的所有框架
+ 
  
  OC 程序的编译,连接,执行
        a) 在源文件.m 中写上符合OC语法规范的源代码
@@ -42,6 +45,7 @@
     3. 指针类型   : int *p1
     4. 空类型    : void
     5. typedef 自定义类型: typedef int money
+ 
  
  OC 类型
     1. BOOL 类型: 可以存储YES 或 NO 的任意1个数据, 一般表成立或不成立
@@ -101,7 +105,6 @@
     带参数的声明规范: 方法名可以命名: xxxWith:实参
          xxxWithxxx 如: eatWith:   eatWithFood:
 
- 
  */
 #import <Foundation/Foundation.h>
 
