@@ -1,4 +1,3 @@
-
 #import "Cat.h"
 
 @implementation Cat
