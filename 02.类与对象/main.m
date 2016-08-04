@@ -1,4 +1,5 @@
 /*
+
 内存管理:内存5大区域
     1. 栈区域： 存储局部变量  如：int num=10, int* p=&num。 num 与 p 都存储在栈区域
     2. 堆区域： 允许程序员手动的从堆申请空间来使用，要主动释放。除非程序结束  如：int 4, float 4.... malloc,calloc ...
@@ -76,7 +77,9 @@
         2. 对象做为方法的返回值:方法的作用是就是创建1个对象,把这个对象的地址返回给调用者
  
  */
+ 
 #import <Foundation/Foundation.h>
+
 @interface Person : NSObject
 {
     @public
