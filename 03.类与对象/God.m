@@ -1,11 +1,3 @@
-//
-//  God.m
-//  oc base
-//
-//  Created by damys on 16/7/23.
-//  Copyright © 2016年 damys. All rights reserved.
-//
-
 #import "God.h"
 
 @implementation God
