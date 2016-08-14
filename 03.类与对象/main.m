@@ -1,7 +1,5 @@
 /*
- 
  上帝与人的故事:
- 
  */
 
 #import <Foundation/Foundation.h>
@@ -20,14 +18,17 @@ int main(int argc, const char * argv[]) {
     p1->_leftLife = 1;
     p1->_gender = GenderMale;
     
+
     //上帝可以杀死一个人
     [god killWithPerson:p1];
     NSLog(@"p1->_leftLife = %d", p1->_leftLife);   //0
     
+
     //上帝只创造人
     Person *p2 = [god makePerson];
     [p2 show];     //我叫夏娃, 我还有12345年可以活!
     
+
     //上帝创建人的同时,还指定姓名,年龄,活多长,性别
     Person *p3 = [god makePersonWithName:@"老王" andAge:30 andGender:GenderMale andLeftLife:70];
     [p3 show];    //我叫老王, 我还有70年可以活!
