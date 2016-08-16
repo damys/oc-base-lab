@@ -1,4 +1,3 @@
-
 #import "FireMan.h"
 
 @implementation FireMan
