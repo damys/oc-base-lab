@@ -1,4 +1,3 @@
-
 #import "Killer.h"
 
 @implementation Killer
