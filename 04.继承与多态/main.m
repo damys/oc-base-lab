@@ -122,10 +122,8 @@
         NSLog 在打印字符时, 会先调用description 方法, 这个方法的返回值是一个字符串, 后输出这个字符串
         descrption 的定义是在NSObject 类之中的,所有每个OC对象都有此方法 如:[p1 description]
     什么时候重写:如果你希望%@打印一个对象的时候,你希望这个对象打印的个数是我们自己定义的,就可以重写此方法
- 
-
  */
- 
+
  
 #import <Foundation/Foundation.h>
 #import "Killer.h"
