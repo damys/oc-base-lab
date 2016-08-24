@@ -1,5 +1,3 @@
-
-
 #import "Soldier.h"
 
 @implementation Soldier
