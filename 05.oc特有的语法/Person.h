@@ -4,15 +4,11 @@
 @property NSString *name;
 }
 
-////名子
+//名子
 //- (void)setName: (NSString *)name;
 //- (NSString *)name;
 
-//say
 - (void)say;
-
 + (void)hi;
-
 + (void)person;
-
 @end
