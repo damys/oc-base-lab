@@ -1,5 +1,4 @@
 /*
- 
   在执行时, Student *stu1 = [Student new] 会作类加载,
      加载项有: 
             1. Student 自己定义的属性,方法
@@ -28,7 +27,6 @@
              int year;
              int month;
              int day;
-         
          }
          @end;
  
