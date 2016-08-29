@@ -455,8 +455,6 @@
             Person *p2 = [Person new];
             p2->setName=@"Tom";  == p2.name=@"Tom";
             p2->setAge=24;       == p2.age = 24;
- 
- 
  */
 
 #import <Foundation/Foundation.h>
