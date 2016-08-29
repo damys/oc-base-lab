@@ -505,30 +505,5 @@ int main(int argc, const char * argv[]) {
         NSLog(@"没有该方法");
     }
     
-    
-    
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     return 0;
 }
