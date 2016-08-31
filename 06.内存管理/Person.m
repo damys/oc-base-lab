@@ -1,10 +1,4 @@
-//
-//  Person.m
-//  oc base
-//
-//  Created by damys on 16/7/30.
-//  Copyright © 2016年 damys. All rights reserved.
-//
+
 
 #import "Person.h"
 
