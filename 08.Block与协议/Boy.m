@@ -1,7 +1,6 @@
 
 #import "Boy.h"
 
-
 @implementation Boy
 
 //谈恋爱的方法
