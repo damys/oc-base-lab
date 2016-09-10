@@ -423,19 +423,3 @@ int main(int argc, const char * argv[]) {
     [rose release];
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
