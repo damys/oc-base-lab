@@ -1,4 +1,3 @@
-
 #import "CZNumber.h"
 
 @implementation CZNumber
